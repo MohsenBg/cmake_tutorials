@@ -2,6 +2,6 @@
 #define PRINT_RESULT_HEADER
 #include <iostream>
 
-void print_result(std::string, float);
+void print_result(std::string result_type, float result_value);
 
 #endif // PRINT_RESULT_HEADER

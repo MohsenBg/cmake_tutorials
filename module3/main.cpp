@@ -1,8 +1,7 @@
-#include "include/addition.hpp"
-#include "include/division.hpp"
-#include "include/print_result.hpp"
+#include "my_math/addition.hpp"
+#include "my_math/division.hpp"
+#include "my_print/print_result.hpp"
 #include <iostream>
-#include <string>
 
 int main(int argc, char *argv[]) {
   float first_num;

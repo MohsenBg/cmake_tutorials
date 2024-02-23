@@ -1,6 +1,5 @@
 #include <iostream>
-#include <string>
-
+#include "my_print/print_result.hpp"
 void print_result(std::string result_type, float result_value) {
   std::cout << result_type << " result:\t" << result_value << "\n";
 }

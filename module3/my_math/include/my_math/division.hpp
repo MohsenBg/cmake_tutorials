@@ -1,6 +1,6 @@
 #ifndef DIVISION_HEADER
 #define DIVISION_HEADER
 
-float division(float, float);
+int division(float a, float b);
 
 #endif // DIVISION_HEADER
